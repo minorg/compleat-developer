@@ -14,7 +14,7 @@ For some software engineers being a generalist means more than being able to wri
 - [Technical writing](#technical-writing)
 
 ## Business analysis
-- IIBA: [_A Guide to the Business Analysis Body of Knowledge_](https://bookshop.org/books/a-guide-to-the-business-analysis-body-of-knowledge-r-babok-r-guide/9781927584026)
+- International Institute of Business Analysis: [_A Guide to the Business Analysis Body of Knowledge_](https://bookshop.org/books/a-guide-to-the-business-analysis-body-of-knowledge-r-babok-r-guide/9781927584026)
 - Wiegers, Beatty: [_Software Requirements_](https://bookshop.org/books/software-requirements/9780735679665)
 
 ## Communication
