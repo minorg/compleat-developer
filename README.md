@@ -30,8 +30,10 @@ For some software engineers being a generalist means more than being able to wri
 - [44 engineering management lessons](https://www.defmacro.org/2014/10/03/engman.html)
 
 ## Miscellaneous
+- Covey: [_The 7 Habits of Highly Effective People_](https://bookshop.org/books/the-7-habits-of-highly-effective-people-30th-anniversary-edition-anniversary/9781982137274)
 - Epstein: [_Range: Why Generalists Triumph in a Specialized World_](https://bookshop.org/books/range-why-generalists-triumph-in-a-specialized-world/9780735214484)
 - Johnson: [_Where Good Ideas Come from: The Natural History of Innovation_](https://bookshop.org/books/where-good-ideas-come-from-the-natural-history-of-innovation/9781594485381)
+- Kaufman: [_The Personal MBA_](https://bookshop.org/books/the-personal-mba-10th-anniversary-edition/9780525543022)
 - Tan: [_Search Inside Yourself: The Unexpected Path to Achieving Success, Happiness (and World Peace)_](https://bookshop.org/books/search-inside-yourself-the-unexpected-path-to-achieving-success-happiness-and-world-peace/9780062116932)
 
 ## Product management
