@@ -27,9 +27,11 @@ For some software engineers being a generalist means more than being able to wri
 ## Management
 - Gallup: [_First, Break All the Rules: What the World's Greatest Managers Do Differently_](https://bookshop.org/books/first-break-all-the-rules-what-the-world-s-greatest-managers-do-differently/9781595621115)
 - Drucker: [_The Effective Executive: The Definitive Guide to Getting the Right Things Done_](https://bookshop.org/books/the-effective-executive-the-definitive-guide-to-getting-the-right-things-done/9780060833459)
+- [44 engineering management lessons](https://www.defmacro.org/2014/10/03/engman.html)
 
 ## Miscellaneous
 - Epstein: [_Range: Why Generalists Triumph in a Specialized World_](https://bookshop.org/books/range-why-generalists-triumph-in-a-specialized-world/9780735214484)
+- Johnson: [_Where Good Ideas Come from: The Natural History of Innovation_](https://bookshop.org/books/where-good-ideas-come-from-the-natural-history-of-innovation/9781594485381)
 - Tan: [_Search Inside Yourself: The Unexpected Path to Achieving Success, Happiness (and World Peace)_](https://bookshop.org/books/search-inside-yourself-the-unexpected-path-to-achieving-success-happiness-and-world-peace/9780062116932)
 
 ## Product management
