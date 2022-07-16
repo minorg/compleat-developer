@@ -25,7 +25,7 @@ For some software engineers being a generalist means more than being able to wri
 - Wilkinson: [_The Secrets of Facilitation: The Smart Guide to Getting Results with Groups_](https://bookshop.org/books/the-secrets-of-facilitation-the-smart-guide-to-getting-results-with-groups/9781118206133), [_The Secrets to Masterful Meetings_](https://bookshop.org/books/the-secrets-to-masterful-meetings/9780972245807)
 
 ## Management
-- Colfer and Baldwin: ["The mirroring hypothesis: theory, evidence, and exceptions"](https://dash.harvard.edu/handle/1/33785675)
+- Colfer, Baldwin: ["The mirroring hypothesis: theory, evidence, and exceptions"](https://dash.harvard.edu/handle/1/33785675)
 - Gallup: [_First, Break All the Rules: What the World's Greatest Managers Do Differently_](https://bookshop.org/books/first-break-all-the-rules-what-the-world-s-greatest-managers-do-differently/9781595621115)
 - Drucker: [_The Effective Executive: The Definitive Guide to Getting the Right Things Done_](https://bookshop.org/books/the-effective-executive-the-definitive-guide-to-getting-the-right-things-done/9780060833459)
 - [44 engineering management lessons](https://www.defmacro.org/2014/10/03/engman.html)
