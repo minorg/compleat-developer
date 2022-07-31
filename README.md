@@ -28,6 +28,7 @@ For some software engineers being a generalist means more than being able to wri
 - Colfer, Baldwin: ["The mirroring hypothesis: theory, evidence, and exceptions"](https://dash.harvard.edu/handle/1/33785675)
 - Gallup: [_First, Break All the Rules: What the World's Greatest Managers Do Differently_](https://bookshop.org/books/first-break-all-the-rules-what-the-world-s-greatest-managers-do-differently/9781595621115)
 - Drucker: [_The Effective Executive: The Definitive Guide to Getting the Right Things Done_](https://bookshop.org/books/the-effective-executive-the-definitive-guide-to-getting-the-right-things-done/9780060833459)
+- Levin: ["A Perspective on Computing Research Management"](https://www.microsoft.com/en-us/research/publication/a-perspective-on-computing-research-management/)
 - [44 engineering management lessons](https://www.defmacro.org/2014/10/03/engman.html)
 
 ## Miscellaneous
