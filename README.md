@@ -29,7 +29,6 @@ For some software engineers being a generalist means more than being able to wri
 - Gallup: [_First, Break All the Rules: What the World's Greatest Managers Do Differently_](https://bookshop.org/books/first-break-all-the-rules-what-the-world-s-greatest-managers-do-differently/9781595621115)
 - Drucker: [_The Effective Executive: The Definitive Guide to Getting the Right Things Done_](https://bookshop.org/books/the-effective-executive-the-definitive-guide-to-getting-the-right-things-done/9780060833459)
 - Levin: ["A Perspective on Computing Research Management"](https://www.microsoft.com/en-us/research/publication/a-perspective-on-computing-research-management/)
-- [Peter principle](https://en.wikipedia.org/wiki/Peter_principle)
 - [44 engineering management lessons](https://www.defmacro.org/2014/10/03/engman.html)
 
 ## Miscellaneous
