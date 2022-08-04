@@ -29,7 +29,9 @@ For some software engineers being a generalist means more than being able to wri
 - Gallup: [_First, Break All the Rules: What the World's Greatest Managers Do Differently_](https://bookshop.org/books/first-break-all-the-rules-what-the-world-s-greatest-managers-do-differently/9781595621115)
 - Drucker: [_The Effective Executive: The Definitive Guide to Getting the Right Things Done_](https://bookshop.org/books/the-effective-executive-the-definitive-guide-to-getting-the-right-things-done/9780060833459)
 - Duhigg: ["What Google Learned From Its Quest to Build the Perfect Team"](https://www.nytimes.com/2016/02/28/magazine/what-google-learned-from-its-quest-to-build-the-perfect-team.html)
+- Lencioni: [_The Five Dysfunctions of a Team: A Leadership Fable_](https://bookshop.org/books/the-five-dysfunctions-of-a-team-a-leadership-fable-9780787960759/9780787960759)
 - Levin: ["A Perspective on Computing Research Management"](https://www.microsoft.com/en-us/research/publication/a-perspective-on-computing-research-management/)
+- Marquet: [_Turn the Ship Around!: A True Story of Turning Followers Into Leaders_](https://bookshop.org/books/turn-the-ship-around-a-true-story-of-turning-followers-into-leaders/9781591846406)
 - [44 engineering management lessons](https://www.defmacro.org/2014/10/03/engman.html)
 
 ## Miscellaneous
@@ -52,7 +54,6 @@ For some software engineers being a generalist means more than being able to wri
 
 ## Strategy
 - Christensen: [_The Innovator's Dilemma: When New Technologies Cause Great Firms to Fail_](https://bookshop.org/books/the-innovator-s-dilemma-when-new-technologies-cause-great-firms-to-fail/9781633691780)
-- Marquet: [_Turn the Ship Around!: A True Story of Turning Followers Into Leaders_](https://bookshop.org/books/turn-the-ship-around-a-true-story-of-turning-followers-into-leaders/9781591846406)
 - Mauborgne, Kim: [_Blue Ocean Strategy_](https://bookshop.org/books/blue-ocean-strategy-expanded-edition-how-to-create-uncontested-market-space-and-make-the-competition-irrelevant-9781625274496/9781625274496)
 
 ## Technical writing
