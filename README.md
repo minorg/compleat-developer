@@ -25,6 +25,7 @@ For some software engineers being a generalist means more than being able to wri
 - Wilkinson: [_The Secrets of Facilitation: The Smart Guide to Getting Results with Groups_](https://bookshop.org/books/the-secrets-of-facilitation-the-smart-guide-to-getting-results-with-groups/9781118206133), [_The Secrets to Masterful Meetings_](https://bookshop.org/books/the-secrets-to-masterful-meetings/9780972245807)
 
 ## Management
+- Akhmechet: ["44 engineering management lessons"](https://www.defmacro.org/2014/10/03/engman.html)
 - Colfer, Baldwin: ["The mirroring hypothesis: theory, evidence, and exceptions"](https://dash.harvard.edu/handle/1/33785675)
 - Gallup: [_First, Break All the Rules: What the World's Greatest Managers Do Differently_](https://bookshop.org/books/first-break-all-the-rules-what-the-world-s-greatest-managers-do-differently/9781595621115)
 - Drucker: [_The Effective Executive: The Definitive Guide to Getting the Right Things Done_](https://bookshop.org/books/the-effective-executive-the-definitive-guide-to-getting-the-right-things-done/9780060833459)
@@ -33,7 +34,6 @@ For some software engineers being a generalist means more than being able to wri
 - Lencioni: [_The Five Dysfunctions of a Team: A Leadership Fable_](https://bookshop.org/books/the-five-dysfunctions-of-a-team-a-leadership-fable-9780787960759/9780787960759), [_The Ideal Team Player: How to Recognize and Cultivate the Three Essential Virtues_](https://bookshop.org/books/the-ideal-team-player-how-to-recognize-and-cultivate-the-three-essential-virtues/9781119209591)
 - Levin: ["A Perspective on Computing Research Management"](https://www.microsoft.com/en-us/research/publication/a-perspective-on-computing-research-management/)
 - Marquet: [_Turn the Ship Around!: A True Story of Turning Followers Into Leaders_](https://bookshop.org/books/turn-the-ship-around-a-true-story-of-turning-followers-into-leaders/9781591846406)
-- Akhmechet: ["44 engineering management lessons"](https://www.defmacro.org/2014/10/03/engman.html)
 
 ## Miscellaneous
 - Covey: [_The 7 Habits of Highly Effective People_](https://bookshop.org/books/the-7-habits-of-highly-effective-people-30th-anniversary-edition-anniversary/9781982137274)
@@ -49,8 +49,8 @@ For some software engineers being a generalist means more than being able to wri
 - Osterwalder: [_Value Proposition Design: How to Create Products and Services Customers Want_](https://bookshop.org/books/value-proposition-design-how-to-create-products-and-services-customers-want/9781118968055)
 
 ## Project management
-- Project Management Institute: [_A Guide to the Project Management Body of Knowledge and the Standard for Project Management_](https://bookshop.org/books/a-guide-to-the-project-management-body-of-knowledge-and-the-standard-for-project-management/9781628256642)
 - McConnell: [_Software Estimation: Demystifying the Black Art_](https://bookshop.org/books/software-estimation-demystifying-the-black-art/9780735605350)
+- Project Management Institute: [_A Guide to the Project Management Body of Knowledge and the Standard for Project Management_](https://bookshop.org/books/a-guide-to-the-project-management-body-of-knowledge-and-the-standard-for-project-management/9781628256642)
 
 ## Sales
 - Rackham: [_SPIN Selling_](https://bookshop.org/books/spin-selling/9780070511132)
