@@ -33,7 +33,7 @@ For some software engineers being a generalist means more than being able to wri
 - Lencioni: [_The Five Dysfunctions of a Team: A Leadership Fable_](https://bookshop.org/books/the-five-dysfunctions-of-a-team-a-leadership-fable-9780787960759/9780787960759), [_The Ideal Team Player: How to Recognize and Cultivate the Three Essential Virtues_](https://bookshop.org/books/the-ideal-team-player-how-to-recognize-and-cultivate-the-three-essential-virtues/9781119209591)
 - Levin: ["A Perspective on Computing Research Management"](https://www.microsoft.com/en-us/research/publication/a-perspective-on-computing-research-management/)
 - Marquet: [_Turn the Ship Around!: A True Story of Turning Followers Into Leaders_](https://bookshop.org/books/turn-the-ship-around-a-true-story-of-turning-followers-into-leaders/9781591846406)
-- [44 engineering management lessons](https://www.defmacro.org/2014/10/03/engman.html)
+- Akhmechet: ["44 engineering management lessons"](https://www.defmacro.org/2014/10/03/engman.html)
 
 ## Miscellaneous
 - Covey: [_The 7 Habits of Highly Effective People_](https://bookshop.org/books/the-7-habits-of-highly-effective-people-30th-anniversary-edition-anniversary/9781982137274)
