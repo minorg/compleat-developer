@@ -29,6 +29,7 @@ For some software engineers being a generalist means more than being able to wri
 - Gallup: [_First, Break All the Rules: What the World's Greatest Managers Do Differently_](https://bookshop.org/books/first-break-all-the-rules-what-the-world-s-greatest-managers-do-differently/9781595621115)
 - Drucker: [_The Effective Executive: The Definitive Guide to Getting the Right Things Done_](https://bookshop.org/books/the-effective-executive-the-definitive-guide-to-getting-the-right-things-done/9780060833459)
 - Duhigg: ["What Google Learned From Its Quest to Build the Perfect Team"](https://www.nytimes.com/2016/02/28/magazine/what-google-learned-from-its-quest-to-build-the-perfect-team.html)
+- Hoffman, Casnocha, Yeh: [_The Alliance: Managing Talent in the Networked Age_](https://bookshop.org/books/the-alliance-managing-talent-in-the-networked-age-9781483014609/9781625275776)
 - Lencioni: [_The Five Dysfunctions of a Team: A Leadership Fable_](https://bookshop.org/books/the-five-dysfunctions-of-a-team-a-leadership-fable-9780787960759/9780787960759), [_The Ideal Team Player: How to Recognize and Cultivate the Three Essential Virtues_](https://bookshop.org/books/the-ideal-team-player-how-to-recognize-and-cultivate-the-three-essential-virtues/9781119209591)
 - Levin: ["A Perspective on Computing Research Management"](https://www.microsoft.com/en-us/research/publication/a-perspective-on-computing-research-management/)
 - Marquet: [_Turn the Ship Around!: A True Story of Turning Followers Into Leaders_](https://bookshop.org/books/turn-the-ship-around-a-true-story-of-turning-followers-into-leaders/9781591846406)
@@ -39,6 +40,7 @@ For some software engineers being a generalist means more than being able to wri
 - Epstein: [_Range: Why Generalists Triumph in a Specialized World_](https://bookshop.org/books/range-why-generalists-triumph-in-a-specialized-world/9780735214484)
 - Johnson: [_Where Good Ideas Come from: The Natural History of Innovation_](https://bookshop.org/books/where-good-ideas-come-from-the-natural-history-of-innovation/9781594485381)
 - Kaufman: [_The Personal MBA_](https://bookshop.org/books/the-personal-mba-10th-anniversary-edition/9780525543022)
+- Poundstone: [_Priceless: The Myth of Fair Value (and How to Take Advantage of It)_](https://bookshop.org/books/priceless-the-myth-of-fair-value-and-how-to-take-advantage-of-it/9780809078813)
 - Tan: [_Search Inside Yourself: The Unexpected Path to Achieving Success, Happiness (and World Peace)_](https://bookshop.org/books/search-inside-yourself-the-unexpected-path-to-achieving-success-happiness-and-world-peace/9780062116932)
 
 ## Product management
