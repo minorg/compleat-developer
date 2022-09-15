@@ -57,6 +57,7 @@ For some software engineers being a generalist means more than being able to wri
 - Project Management Institute: [_A Guide to the Project Management Body of Knowledge and the Standard for Project Management_](https://bookshop.org/books/a-guide-to-the-project-management-body-of-knowledge-and-the-standard-for-project-management/9781628256642)
 
 ## Sales
+- Gitomer: [_Little Red Book of Selling: 12.5 Principles of Sales Greatness: How to Make Sales Forever_](https://bookshop.org/books/little-red-book-of-selling-12-5-principles-of-sales-greatness-how-to-make-sales-forever/9781885167606)
 - Rackham: [_SPIN Selling_](https://bookshop.org/books/spin-selling/9780070511132)
 
 ## Strategy
