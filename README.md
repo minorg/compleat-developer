@@ -39,6 +39,7 @@ For some software engineers being a generalist means more than being able to wri
 - Packard: [_The HP Way: How Bill Hewlett and I Built Our Company_](https://bookshop.org/books/the-hp-way-how-bill-hewlett-and-i-built-our-company/9780060845797)
 
 ## Marketing
+- Miller: [_Building a Storybrand: Clarify Your Message So Customers Will Listen_](https://bookshop.org/p/books/building-a-storybrand-clarify-your-message-so-customers-will-listen-donald-miller/9308684?ean=9780718033323)
 - Moore: [_Crossing the Chasm: Marketing and Selling Disruptive Products to Mainstream Customers_](https://bookshop.org/p/books/crossing-the-chasm-3rd-edition-marketing-and-selling-disruptive-products-to-mainstream-customers-geoffrey-a-moore/6433307?ean=9780062292988)
 - Reichheld: ["The One Number You Need to Grow"](https://hbr.org/2003/12/the-one-number-you-need-to-grow)
 
