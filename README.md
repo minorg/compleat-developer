@@ -23,6 +23,7 @@ For some software engineers being a generalist means more than being able to wri
 - Cialdini: [_Influence: The Psychology of Persuasion_](https://bookshop.org/books/influence-the-psychology-of-persuasion/9780062937650)
 - McMillan, Patterson, Grenny: [_Crucial Conversations: Tools for Talking When Stakes Are High_](https://bookshop.org/books/crucial-conversations-tools-for-talking-when-stakes-are-high/9781260474183)
 - Scott: [_Radical Candor: Be a Kick-Ass Boss Without Losing Your Humanity_](https://bookshop.org/books/radical-candor-be-a-kick-ass-boss-without-losing-your-humanity/9781250235374)
+- VandeHei, Allen, Schwartz: [_Smart Brevity: The Power of Saying More With Less_](https://bookshop.org/p/books/smart-brevity-the-power-of-saying-more-with-less-roy-schwartz/17897762?ean=9781523516971)
 - Wilkinson: [_The Secrets of Facilitation: The Smart Guide to Getting Results with Groups_](https://bookshop.org/books/the-secrets-of-facilitation-the-smart-guide-to-getting-results-with-groups/9781118206133), [_The Secrets to Masterful Meetings_](https://bookshop.org/books/the-secrets-to-masterful-meetings/9780972245807)
 
 ## Management
