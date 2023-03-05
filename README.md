@@ -38,6 +38,7 @@ For some software engineers being a generalist means more than being able to wri
 - Levin: ["A Perspective on Computing Research Management"](https://www.microsoft.com/en-us/research/publication/a-perspective-on-computing-research-management/)
 - Marquet: [_Turn the Ship Around!: A True Story of Turning Followers Into Leaders_](https://bookshop.org/books/turn-the-ship-around-a-true-story-of-turning-followers-into-leaders/9781591846406)
 - Packard: [_The HP Way: How Bill Hewlett and I Built Our Company_](https://bookshop.org/books/the-hp-way-how-bill-hewlett-and-i-built-our-company/9780060845797)
+- Sutton: [_Good Boss, Bad Boss: How to Be the Best... and Learn from the Worst_](https://bookshop.org/p/books/good-boss-bad-boss-how-to-be-the-best-and-learn-from-the-worst-robert-i-sutton/10252412?ean=9780446556071)
 
 ## Marketing
 - Miller: [_Building a Storybrand: Clarify Your Message So Customers Will Listen_](https://bookshop.org/p/books/building-a-storybrand-clarify-your-message-so-customers-will-listen-donald-miller/9308684?ean=9780718033323)
