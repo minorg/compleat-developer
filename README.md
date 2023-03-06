@@ -77,6 +77,7 @@ For some software engineers being a generalist means more than being able to wri
 - Mauborgne, Kim: [_Blue Ocean Strategy_](https://bookshop.org/books/blue-ocean-strategy-expanded-edition-how-to-create-uncontested-market-space-and-make-the-competition-irrelevant-9781625274496/9781625274496)
 
 ## Technical writing
+- [Divio Documentation System](https://documentation.divio.com/)
 - Daly: ["Literate Programming in the Large"](https://www.youtube.com/watch?v=Av0PQDVTP4A)
 - Gales: _The Product is Docs: Writing technical documentation in a product development group_
 - [Technical Writing courses at Google Developers](https://developers.google.com/tech-writing/overview)
