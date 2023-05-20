@@ -6,6 +6,7 @@ For some software engineers being a generalist means more than being able to wri
 - [Business analysis](#business-analysis)
 - [Communication](#communication)
 - [Content writing](#content-writing)
+- [Design](#design)
 - [Management](#management)
 - [Marketing](#marketing)
 - [Miscellaneous](#miscellaneous)
@@ -29,6 +30,9 @@ For some software engineers being a generalist means more than being able to wri
 
 ## Content writing
 - Winters: [_Content Design_](https://bookshop.org/p/books/content-design-sarah-winters/19411048?ean=9781916323315)
+
+## Design
+- Hall: [_Conversational Design_](https://abookapart.com/products/conversational-design)
 
 ## Management
 - Akhmechet: ["44 engineering management lessons"](https://www.defmacro.org/2014/10/03/engman.html)
