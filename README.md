@@ -1,7 +1,5 @@
 # The Compleat Developer <!-- omit in toc -->
 
-For some software engineers being a generalist means more than being able to write code for different parts of a software stack. Generality goes beyond the technical. You feel an urgent need to understand the entire [value chain](https://en.wikipedia.org/wiki/Value_chain), from sales and marketing to product management to operations. You need to understand _why_. You enjoy interacting with people whose primary concern is not building software. You want to meet those people where they are and speak their language. You think in terms of a broad space of technical and non-technical solutions, and not in terms of algorithms and data structures. You know that more software is not always the answer, and the ability to communicate well is the most effective tool you possess.
-
 ## Contents <!-- omit in toc -->
 - [Business analysis](#business-analysis)
 - [Communication](#communication)
