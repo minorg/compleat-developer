@@ -51,6 +51,7 @@
 - Miller: [_Building a Storybrand: Clarify Your Message So Customers Will Listen_](https://bookshop.org/p/books/building-a-storybrand-clarify-your-message-so-customers-will-listen-donald-miller/9308684?ean=9780718033323)
 - Moore: [_Crossing the Chasm: Marketing and Selling Disruptive Products to Mainstream Customers_](https://bookshop.org/p/books/crossing-the-chasm-3rd-edition-marketing-and-selling-disruptive-products-to-mainstream-customers-geoffrey-a-moore/6433307?ean=9780062292988)
 - Reichheld: ["The One Number You Need to Grow"](https://hbr.org/2003/12/the-one-number-you-need-to-grow)
+- Ries, Trout: [_The 22 Immutable Laws of Marketing_](https://bookshop.org/p/books/the-22-immutable-laws-of-marketing-exposed-and-explained-by-the-world-s-two-al-ries/9933702?ean=9780887306662)
 
 ## Miscellaneous
 - Covey: [_The 7 Habits of Highly Effective People_](https://bookshop.org/books/the-7-habits-of-highly-effective-people-30th-anniversary-edition-anniversary/9781982137274)
