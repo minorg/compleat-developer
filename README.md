@@ -55,6 +55,7 @@
 
 ## Miscellaneous
 - Covey: [_The 7 Habits of Highly Effective People_](https://bookshop.org/books/the-7-habits-of-highly-effective-people-30th-anniversary-edition-anniversary/9781982137274)
+- Dietrich: [_Developer Hegemony: The Future of Labor_](https://bookshop.org/p/books/developer-hegemony-the-future-of-labor-erik-dietrich/11787209?ean=9780692866801)
 - Epstein: [_Range: Why Generalists Triumph in a Specialized World_](https://bookshop.org/books/range-why-generalists-triumph-in-a-specialized-world/9780735214484)
 - Johnson: [_Where Good Ideas Come from: The Natural History of Innovation_](https://bookshop.org/books/where-good-ideas-come-from-the-natural-history-of-innovation/9781594485381)
 - Kaufman: [_The Personal MBA_](https://bookshop.org/books/the-personal-mba-10th-anniversary-edition/9780525543022)
