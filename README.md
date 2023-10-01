@@ -39,6 +39,7 @@
 - Drucker: [_The Effective Executive: The Definitive Guide to Getting the Right Things Done_](https://bookshop.org/books/the-effective-executive-the-definitive-guide-to-getting-the-right-things-done/9780060833459)
 - Duhigg: ["What Google Learned From Its Quest to Build the Perfect Team"](https://www.nytimes.com/2016/02/28/magazine/what-google-learned-from-its-quest-to-build-the-perfect-team.html)
 - Edmondson: [_The Fearless Organization: Creating Psychological Safety in the Workplace for Learning, Innovation, and Growth_](https://bookshop.org/p/books/the-fearless-organization-creating-psychological-safety-in-the-workplace-for-learning-innovation-and-growth-amy-c-edmondson/16637561?ean=9781119477242)
+- Hill: ["Becoming the Boss"](https://hbr.org/2007/01/becoming-the-boss)
 - Hoffman, Casnocha, Yeh: [_The Alliance: Managing Talent in the Networked Age_](https://bookshop.org/books/the-alliance-managing-talent-in-the-networked-age-9781483014609/9781625275776)
 - Kotter: ["Leading Change: Why Transformation Efforts Fail"](https://hbr.org/1995/05/leading-change-why-transformation-efforts-fail-2)
 - Lencioni: [_The Five Dysfunctions of a Team: A Leadership Fable_](https://bookshop.org/books/the-five-dysfunctions-of-a-team-a-leadership-fable-9780787960759/9780787960759), [_The Ideal Team Player: How to Recognize and Cultivate the Three Essential Virtues_](https://bookshop.org/books/the-ideal-team-player-how-to-recognize-and-cultivate-the-three-essential-virtues/9781119209591)
