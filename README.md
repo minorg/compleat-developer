@@ -1,5 +1,8 @@
 # The Compleat Developer <!-- omit in toc -->
 
+"A mind all logic is like a knife all blade. It makes the hand bleed that uses it."
+\- Rabindranath Tagore
+
 ## Contents <!-- omit in toc -->
 - [Business analysis](#business-analysis)
 - [Communication](#communication)
