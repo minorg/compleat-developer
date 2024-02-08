@@ -24,7 +24,9 @@
 ## Communication
 - Carnegie: [_How To Win Friends and Influence People_](https://bookshop.org/books/how-to-win-friends-and-influence-people-9780671027032/9780671027032)
 - Cialdini: [_Influence: The Psychology of Persuasion_](https://bookshop.org/books/influence-the-psychology-of-persuasion/9780062937650)
+- Goffman: [_The Presentation of Self in Everyday Life_](https://bookshop.org/p/books/the-presentation-of-self-in-everyday-life-erving-goffman/8605947?ean=9780385094023)
 - McMillan, Patterson, Grenny: [_Crucial Conversations: Tools for Talking When Stakes Are High_](https://bookshop.org/books/crucial-conversations-tools-for-talking-when-stakes-are-high/9781260474183)
+- Schein: [_Helping: How to Offer, Give, and Receive Help_](https://bookshop.org/p/books/helping-how-to-offer-give-and-receive-help-edgar-h-schein/8561287?ean=9781605098562)
 - Scott: [_Radical Candor: Be a Kick-Ass Boss Without Losing Your Humanity_](https://bookshop.org/books/radical-candor-be-a-kick-ass-boss-without-losing-your-humanity/9781250235374)
 - VandeHei, Allen, Schwartz: [_Smart Brevity: The Power of Saying More With Less_](https://bookshop.org/p/books/smart-brevity-the-power-of-saying-more-with-less-roy-schwartz/17897762?ean=9781523516971)
 - Wilkinson: [_The Secrets of Facilitation: The Smart Guide to Getting Results with Groups_](https://bookshop.org/books/the-secrets-of-facilitation-the-smart-guide-to-getting-results-with-groups/9781118206133), [_The Secrets to Masterful Meetings_](https://bookshop.org/books/the-secrets-to-masterful-meetings/9780972245807)
@@ -51,6 +53,7 @@
 - Packard: [_The HP Way: How Bill Hewlett and I Built Our Company_](https://bookshop.org/books/the-hp-way-how-bill-hewlett-and-i-built-our-company/9780060845797)
 - Rust: ["Centralization versus Decentralization in Management"](https://www.jstor.org/stable/1013936)
 - Sutton: [_Good Boss, Bad Boss: How to Be the Best... and Learn from the Worst_](https://bookshop.org/p/books/good-boss-bad-boss-how-to-be-the-best-and-learn-from-the-worst-robert-i-sutton/10252412?ean=9780446556071)
+- Sutton: [_The No Asshole Rule: Building a Civilized Workplace and Surviving One That Isn't_](https://bookshop.org/p/books/the-no-asshole-rule-building-a-civilized-workplace-and-surviving-one-that-isn-t-robert-i-sutton/11029334?ean=9780446698207)
 - Westrum: ["A typology of organisational cultures"](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1765804/)
 
 ## Marketing
@@ -68,8 +71,6 @@
 - Kim, Behr, Spafford: [_The Phoenix Project: A Novel about IT, DevOps, and Helping Your Business Win_](https://bookshop.org/books/the-phoenix-project-a-novel-about-it-devops-and-helping-your-business-win-anniversary/9781942788294)
 - MacKenzie: [_Orbiting the Giant Hairball: A Corporate Fool's Guide to Surviving with Grace_](https://bookshop.org/p/books/orbiting-the-giant-hairball-a-corporate-fool-s-guide-to-surviving-with-grace-gordon-mackenzie/12814980?ean=9780670879830)
 - Poundstone: [_Priceless: The Myth of Fair Value (and How to Take Advantage of It)_](https://bookshop.org/books/priceless-the-myth-of-fair-value-and-how-to-take-advantage-of-it/9780809078813)
-- Schein: [_Helping: How to Offer, Give, and Receive Help_](https://bookshop.org/p/books/helping-how-to-offer-give-and-receive-help-edgar-h-schein/8561287?ean=9781605098562)
-- Sutton: [_The No Asshole Rule: Building a Civilized Workplace and Surviving One That Isn't_](https://bookshop.org/p/books/the-no-asshole-rule-building-a-civilized-workplace-and-surviving-one-that-isn-t-robert-i-sutton/11029334?ean=9780446698207)
 - Tan: [_Search Inside Yourself: The Unexpected Path to Achieving Success, Happiness (and World Peace)_](https://bookshop.org/books/search-inside-yourself-the-unexpected-path-to-achieving-success-happiness-and-world-peace/9780062116932)
 
 ## Product management
