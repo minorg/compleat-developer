@@ -40,6 +40,7 @@
 ## Management
 - Akhmechet: ["44 engineering management lessons"](https://www.defmacro.org/2014/10/03/engman.html)
 - Colfer, Baldwin: ["The mirroring hypothesis: theory, evidence, and exceptions"](https://dash.harvard.edu/handle/1/33785675)
+- DeMarco, Lister: [_Peopleware: Productive Projects and Teams ](https://bookshop.org/p/books/peopleware-productive-projects-and-teams-revised-tom-demarco/10457792?ean=9780321934116)
 - Gallup: [_First, Break All the Rules: What the World's Greatest Managers Do Differently_](https://bookshop.org/books/first-break-all-the-rules-what-the-world-s-greatest-managers-do-differently/9781595621115)
 - Drucker: [_The Effective Executive: The Definitive Guide to Getting the Right Things Done_](https://bookshop.org/books/the-effective-executive-the-definitive-guide-to-getting-the-right-things-done/9780060833459)
 - Duhigg: ["What Google Learned From Its Quest to Build the Perfect Team"](https://www.nytimes.com/2016/02/28/magazine/what-google-learned-from-its-quest-to-build-the-perfect-team.html)
@@ -63,6 +64,7 @@
 - Ries, Trout: [_The 22 Immutable Laws of Marketing_](https://bookshop.org/p/books/the-22-immutable-laws-of-marketing-exposed-and-explained-by-the-world-s-two-al-ries/9933702?ean=9780887306662)
 
 ## Miscellaneous
+- Brooks: [_The Mythical Man-Month: Essays on Software Engineering_](https://bookshop.org/p/books/the-mythical-man-month-essays-on-software-engineering-anniversary-edition-frederick-brooks/9437212?ean=9780201835953)
 - Covey: [_The 7 Habits of Highly Effective People_](https://bookshop.org/books/the-7-habits-of-highly-effective-people-30th-anniversary-edition-anniversary/9781982137274)
 - Dietrich: [_Developer Hegemony: The Future of Labor_](https://bookshop.org/p/books/developer-hegemony-the-future-of-labor-erik-dietrich/11787209?ean=9780692866801)
 - Epstein: [_Range: Why Generalists Triumph in a Specialized World_](https://bookshop.org/books/range-why-generalists-triumph-in-a-specialized-world/9780735214484)
