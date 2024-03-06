@@ -55,6 +55,7 @@
 - Rust: ["Centralization versus Decentralization in Management"](https://www.jstor.org/stable/1013936)
 - Sutton: [_Good Boss, Bad Boss: How to Be the Best... and Learn from the Worst_](https://bookshop.org/p/books/good-boss-bad-boss-how-to-be-the-best-and-learn-from-the-worst-robert-i-sutton/10252412?ean=9780446556071)
 - Sutton: [_The No Asshole Rule: Building a Civilized Workplace and Surviving One That Isn't_](https://bookshop.org/p/books/the-no-asshole-rule-building-a-civilized-workplace-and-surviving-one-that-isn-t-robert-i-sutton/11029334?ean=9780446698207)
+- Wikipedia: ["Tuckman's stages of group development"](https://en.wikipedia.org/wiki/Tuckman%27s_stages_of_group_development)
 - Westrum: ["A typology of organisational cultures"](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1765804/)
 
 ## Marketing
