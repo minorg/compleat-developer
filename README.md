@@ -40,7 +40,7 @@
 ## Management
 - Akhmechet: ["44 engineering management lessons"](https://www.defmacro.org/2014/10/03/engman.html)
 - Colfer, Baldwin: ["The mirroring hypothesis: theory, evidence, and exceptions"](https://dash.harvard.edu/handle/1/33785675)
-- DeMarco, Lister: [_Peopleware: Productive Projects and Teams ](https://bookshop.org/p/books/peopleware-productive-projects-and-teams-revised-tom-demarco/10457792?ean=9780321934116)
+- DeMarco, Lister: [_Peopleware: Productive Projects and Teams_](https://bookshop.org/p/books/peopleware-productive-projects-and-teams-revised-tom-demarco/10457792?ean=9780321934116)
 - Gallup: [_First, Break All the Rules: What the World's Greatest Managers Do Differently_](https://bookshop.org/books/first-break-all-the-rules-what-the-world-s-greatest-managers-do-differently/9781595621115)
 - Drucker: [_The Effective Executive: The Definitive Guide to Getting the Right Things Done_](https://bookshop.org/books/the-effective-executive-the-definitive-guide-to-getting-the-right-things-done/9780060833459)
 - Duhigg: ["What Google Learned From Its Quest to Build the Perfect Team"](https://www.nytimes.com/2016/02/28/magazine/what-google-learned-from-its-quest-to-build-the-perfect-team.html)
