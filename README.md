@@ -50,6 +50,7 @@
 - Kotter: ["Leading Change: Why Transformation Efforts Fail"](https://hbr.org/1995/05/leading-change-why-transformation-efforts-fail-2)
 - Lencioni: [_The Five Dysfunctions of a Team: A Leadership Fable_](https://bookshop.org/books/the-five-dysfunctions-of-a-team-a-leadership-fable-9780787960759/9780787960759), [_The Ideal Team Player: How to Recognize and Cultivate the Three Essential Virtues_](https://bookshop.org/books/the-ideal-team-player-how-to-recognize-and-cultivate-the-three-essential-virtues/9781119209591)
 - Levin: ["A Perspective on Computing Research Management"](https://www.microsoft.com/en-us/research/publication/a-perspective-on-computing-research-management/)
+- Maister: [_Managing the Professional Service Firm_](https://bookshop.org/p/books/managing-the-professional-service-firm-revised-david-h-maister/10215454?ean=9780684834313)
 - Marquet: [_Turn the Ship Around!: A True Story of Turning Followers Into Leaders_](https://bookshop.org/books/turn-the-ship-around-a-true-story-of-turning-followers-into-leaders/9781591846406)
 - Packard: [_The HP Way: How Bill Hewlett and I Built Our Company_](https://bookshop.org/books/the-hp-way-how-bill-hewlett-and-i-built-our-company/9780060845797)
 - Rust: ["Centralization versus Decentralization in Management"](https://www.jstor.org/stable/1013936)
