@@ -32,6 +32,7 @@
 - Scott: [_Radical Candor: Be a Kick-Ass Boss Without Losing Your Humanity_](https://bookshop.org/books/radical-candor-be-a-kick-ass-boss-without-losing-your-humanity/9781250235374)
 - VandeHei, Allen, Schwartz: [_Smart Brevity: The Power of Saying More With Less_](https://bookshop.org/p/books/smart-brevity-the-power-of-saying-more-with-less-roy-schwartz/17897762?ean=9781523516971)
 - Wilkinson: [_The Secrets of Facilitation: The Smart Guide to Getting Results with Groups_](https://bookshop.org/books/the-secrets-of-facilitation-the-smart-guide-to-getting-results-with-groups/9781118206133), [_The Secrets to Masterful Meetings_](https://bookshop.org/books/the-secrets-to-masterful-meetings/9780972245807)
+- Zinsser: [_On Writing Well: The Classic Guide to Writing Nonfiction_](https://bookshop.org/p/books/on-writing-well-the-classic-guide-to-writing-nonfiction-william-zinsser/8860186)
 
 ## Content writing
 - Winters: [_Content Design_](https://bookshop.org/p/books/content-design-sarah-winters/19411048?ean=9781916323315)
