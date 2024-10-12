@@ -49,6 +49,7 @@
 - Hill: ["Becoming the Boss"](https://hbr.org/2007/01/becoming-the-boss)
 - Hoffman, Casnocha, Yeh: [_The Alliance: Managing Talent in the Networked Age_](https://bookshop.org/books/the-alliance-managing-talent-in-the-networked-age-9781483014609/9781625275776)
 - Kotter: ["Leading Change: Why Transformation Efforts Fail"](https://hbr.org/1995/05/leading-change-why-transformation-efforts-fail-2)
+- Larson: [_An Elegant Puzzle: Systems of Engineering Management_](https://bookshop.org/p/books/an-elegant-puzzle-systems-of-engineering-management-will-larson/18697762)
 - Lencioni: [_The Five Dysfunctions of a Team: A Leadership Fable_](https://bookshop.org/books/the-five-dysfunctions-of-a-team-a-leadership-fable-9780787960759/9780787960759), [_The Ideal Team Player: How to Recognize and Cultivate the Three Essential Virtues_](https://bookshop.org/books/the-ideal-team-player-how-to-recognize-and-cultivate-the-three-essential-virtues/9781119209591)
 - Levin: ["A Perspective on Computing Research Management"](https://www.microsoft.com/en-us/research/publication/a-perspective-on-computing-research-management/)
 - Maister: [_Managing the Professional Service Firm_](https://bookshop.org/p/books/managing-the-professional-service-firm-revised-david-h-maister/10215454?ean=9780684834313)
