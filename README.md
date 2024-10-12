@@ -72,6 +72,7 @@
 ## Miscellaneous
 - Brooks: [_The Mythical Man-Month: Essays on Software Engineering_](https://bookshop.org/p/books/the-mythical-man-month-essays-on-software-engineering-anniversary-edition-frederick-brooks/9437212?ean=9780201835953)
 - Covey: [_The 7 Habits of Highly Effective People_](https://bookshop.org/books/the-7-habits-of-highly-effective-people-30th-anniversary-edition-anniversary/9781982137274)
+- de Bono: [_Six Thinking Hats_](https://bookshop.org/p/books/six-thinking-hats-an-essential-approach-to-business-management-revised-and-updated-edward-de-bono/110075)
 - Dietrich: [_Developer Hegemony: The Future of Labor_](https://bookshop.org/p/books/developer-hegemony-the-future-of-labor-erik-dietrich/11787209?ean=9780692866801)
 - Epstein: [_Range: Why Generalists Triumph in a Specialized World_](https://bookshop.org/books/range-why-generalists-triumph-in-a-specialized-world/9780735214484)
 - Johnson: [_Where Good Ideas Come from: The Natural History of Innovation_](https://bookshop.org/books/where-good-ideas-come-from-the-natural-history-of-innovation/9781594485381)
