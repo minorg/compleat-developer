@@ -18,6 +18,7 @@
 - [Technical writing](#technical-writing)
 
 ## Business analysis
+- Polikoff, Coyne, Hodgson: _Capability Cases: A Solution Envisioning Approach_
 - International Institute of Business Analysis: [_A Guide to the Business Analysis Body of Knowledge_](https://bookshop.org/books/a-guide-to-the-business-analysis-body-of-knowledge-r-babok-r-guide/9781927584026)
 - Wiegers, Beatty: [_Software Requirements_](https://bookshop.org/books/software-requirements/9780735679665)
 
