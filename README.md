@@ -80,7 +80,9 @@
 
 ## Product management
 - Cagan: [_Inspired: How To Create Tech Products Customers Love_](https://bookshop.org/books/inspired-how-to-create-tech-products-customers-love/9781119387503)
-- Osterwalder: [_Value Proposition Design: How to Create Products and Services Customers Want_](https://bookshop.org/books/value-proposition-design-how-to-create-products-and-services-customers-want/9781118968055)
+- Osterwalder, Pigneur, et al.: [_Business Model Generation: A Handbook for Visionaries, Game Changers, and Challengers_](https://bookshop.org/p/books/business-model-generation-a-handbook-for-visionaries-game-changers-and-challengers-alexander-osterwalder/8799260)
+- Osterwalder, Bland: [_Testing Business Ideas: A Field Guide for Rapid Experimentation_](https://bookshop.org/p/books/testing-business-ideas-a-field-guide-for-rapid-experimentation-alexander-osterwalder/7282056)
+- Osterwalder, Pigneur, et al.: [_Value Proposition Design: How to Create Products and Services Customers Want_](https://bookshop.org/books/value-proposition-design-how-to-create-products-and-services-customers-want/9781118968055)
 
 ## Project management
 - McConnell: [_Software Estimation: Demystifying the Black Art_](https://bookshop.org/books/software-estimation-demystifying-the-black-art/9780735605350)
