@@ -64,6 +64,7 @@
 - Westrum: ["A typology of organisational cultures"](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1765804/)
 
 ## Marketing
+- Almquist, Senior, Bloch: ["The Elements of Value"](https://hbr.org/2016/09/the-elements-of-value)
 - Miller: [_Building a Storybrand: Clarify Your Message So Customers Will Listen_](https://bookshop.org/p/books/building-a-storybrand-clarify-your-message-so-customers-will-listen-donald-miller/9308684?ean=9780718033323)
 - Moore: [_Crossing the Chasm: Marketing and Selling Disruptive Products to Mainstream Customers_](https://bookshop.org/p/books/crossing-the-chasm-3rd-edition-marketing-and-selling-disruptive-products-to-mainstream-customers-geoffrey-a-moore/6433307?ean=9780062292988)
 - Reichheld: ["The One Number You Need to Grow"](https://hbr.org/2003/12/the-one-number-you-need-to-grow)
