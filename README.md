@@ -80,6 +80,7 @@
 - Kaufman: [_The Personal MBA_](https://bookshop.org/books/the-personal-mba-10th-anniversary-edition/9780525543022)
 - Kim, Behr, Spafford: [_The Phoenix Project: A Novel about IT, DevOps, and Helping Your Business Win_](https://bookshop.org/books/the-phoenix-project-a-novel-about-it-devops-and-helping-your-business-win-anniversary/9781942788294)
 - MacKenzie: [_Orbiting the Giant Hairball: A Corporate Fool's Guide to Surviving with Grace_](https://bookshop.org/p/books/orbiting-the-giant-hairball-a-corporate-fool-s-guide-to-surviving-with-grace-gordon-mackenzie/12814980?ean=9780670879830)
+- Newport: [_So Good They Can't Ignore You: Why Skills Trump Passion in the Quest for Work You Love_](https://bookshop.org/p/books/so-good-they-can-t-ignore-you-why-skills-trump-passion-in-the-quest-for-work-you-love-cal-newport/15549573)
 - Poundstone: [_Priceless: The Myth of Fair Value (and How to Take Advantage of It)_](https://bookshop.org/books/priceless-the-myth-of-fair-value-and-how-to-take-advantage-of-it/9780809078813)
 - Tan: [_Search Inside Yourself: The Unexpected Path to Achieving Success, Happiness (and World Peace)_](https://bookshop.org/books/search-inside-yourself-the-unexpected-path-to-achieving-success-happiness-and-world-peace/9780062116932)
 
