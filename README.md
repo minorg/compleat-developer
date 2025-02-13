@@ -25,6 +25,7 @@
 ## Communication
 - Carnegie: [_How To Win Friends and Influence People_](https://bookshop.org/books/how-to-win-friends-and-influence-people-9780671027032/9780671027032)
 - Cialdini: [_Influence: The Psychology of Persuasion_](https://bookshop.org/books/influence-the-psychology-of-persuasion/9780062937650)
+- Duhigg: [_Supercommunicators: How to Unlock the Secret Language of Connection_](https://bookshop.org/p/books/supercommunicators-the-power-of-conversation-and-hidden-language-of-connection-charles-duhigg/20112446)
 - Goffman: [_The Presentation of Self in Everyday Life_](https://bookshop.org/p/books/the-presentation-of-self-in-everyday-life-erving-goffman/8605947?ean=9780385094023)
 - Maister: [_The Trusted Advisor_](https://bookshop.org/p/books/the-trusted-advisor-20th-anniversary-edition-david-h-maister/951063?ean=9781982157104)
 - McMillan, Patterson, Grenny: [_Crucial Conversations: Tools for Talking When Stakes Are High_](https://bookshop.org/books/crucial-conversations-tools-for-talking-when-stakes-are-high/9781260474183)
