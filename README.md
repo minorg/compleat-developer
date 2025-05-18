@@ -99,6 +99,7 @@
 ## Sales
 - Gitomer: [_Little Red Book of Selling: 12.5 Principles of Sales Greatness: How to Make Sales Forever_](https://bookshop.org/books/little-red-book-of-selling-12-5-principles-of-sales-greatness-how-to-make-sales-forever/9781885167606)
 - Rackham: [_SPIN Selling_](https://bookshop.org/books/spin-selling/9780070511132)
+- Huber: [_The Sweaty Startup: How to Get Rich Doing Boring Things_](https://bookshop.org/p/books/the-sweaty-startup-how-to-get-rich-doing-boring-things-nick-huber/21698321)
 
 ## Strategy
 - Christensen: [_The Innovator's Dilemma: When New Technologies Cause Great Firms to Fail_](https://bookshop.org/books/the-innovator-s-dilemma-when-new-technologies-cause-great-firms-to-fail/9781633691780)
