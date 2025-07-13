@@ -93,6 +93,7 @@
 - Osterwalder, Pigneur, et al.: [_Value Proposition Design: How to Create Products and Services Customers Want_](https://bookshop.org/books/value-proposition-design-how-to-create-products-and-services-customers-want/9781118968055)
 
 ## Project management
+- Flyvbjerg: [_How Big Things Get Done: The Surprising Factors That Determine the Fate of Every Project, from Home Renovations to Space Exploration and Everything In Between_](https://bookshop.org/p/books/how-big-things-get-done-the-surprising-factors-that-determine-the-fate-of-every-project-from-home-renovations-to-space-exploration-and-everyt-dan-gard/18556366)
 - McConnell: [_Software Estimation: Demystifying the Black Art_](https://bookshop.org/books/software-estimation-demystifying-the-black-art/9780735605350)
 - Project Management Institute: [_A Guide to the Project Management Body of Knowledge and the Standard for Project Management_](https://bookshop.org/books/a-guide-to-the-project-management-body-of-knowledge-and-the-standard-for-project-management/9781628256642)
 
