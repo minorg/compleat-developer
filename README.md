@@ -84,6 +84,7 @@
 - MacKenzie: [_Orbiting the Giant Hairball: A Corporate Fool's Guide to Surviving with Grace_](https://bookshop.org/p/books/orbiting-the-giant-hairball-a-corporate-fool-s-guide-to-surviving-with-grace-gordon-mackenzie/12814980?ean=9780670879830)
 - Newport: [_So Good They Can't Ignore You: Why Skills Trump Passion in the Quest for Work You Love_](https://bookshop.org/p/books/so-good-they-can-t-ignore-you-why-skills-trump-passion-in-the-quest-for-work-you-love-cal-newport/15549573)
 - Poundstone: [_Priceless: The Myth of Fair Value (and How to Take Advantage of It)_](https://bookshop.org/books/priceless-the-myth-of-fair-value-and-how-to-take-advantage-of-it/9780809078813)
+- Sher: [_Refuse to Choose!: How To Use All of Your Interests, Passions, and Hobbies to Create the Life and Career of Your Dreams_](https://bookshop.org/p/books/refuse-to-choose-use-all-of-your-interests-passions-and-hobbies-to-create-the-life-and-career-of-your-dreams-barbara-sher/026617b157c45c61?ean=9781594866265&next=t)
 - Tan: [_Search Inside Yourself: The Unexpected Path to Achieving Success, Happiness (and World Peace)_](https://bookshop.org/books/search-inside-yourself-the-unexpected-path-to-achieving-success-happiness-and-world-peace/9780062116932)
 
 ## Product management
